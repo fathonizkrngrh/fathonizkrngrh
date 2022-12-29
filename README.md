@@ -1,7 +1,7 @@
 <h1 align="center">Hello All 👋 , Welcome to my profile</h1>
 <h4 align="left">My name is Fathoni and i'm an undergraduated student in Software Engineering at Univeritas Pendidikan Indonesia. Thanks for coming to my GitHub Profile</h3>
 
-- 🌱 I’m currently learning **Backend Web Development using NodeJS and Express**
+- 🌱 I’m currently learning **Backend Web Development Express and Frontend VueJS**
 
 - 📫 How to reach me **fathonizikri11@gmail.com**
 
