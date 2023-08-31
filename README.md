@@ -1,6 +1,6 @@
 ## Hi There 👋 , I'm Fathoni Zikri Nugroho - Backend Developer Enthusiast
 
-- 🌱 I’m currently learning **Node.js (Express), Go (Chi & Fiber), React**
+- 🌱 I’m currently learning **Node.js (Express), Go (Gin & Fiber), React**
 - 📚 I'm currently studying at Universitas Pendidikan Indonesia - Software Engineering 🧑‍💻
 
 ### 🚀 Get in touch
